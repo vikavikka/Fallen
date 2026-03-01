@@ -1,0 +1,15 @@
+global.RestartesanasId=0
+global.HpDaudz=1
+global.LodesSpeks=1
+global.Dveseles=0
+global.DveselesPlus=1
+global.Ist1Iedmainieki=45
+global.MirTaimers=320
+global.maxlv=0
+global.Izvellv=0
+global.hp=1; 
+global.Victory=0;
+global.nophp=0;
+global.nopspe=0;
+global.nopsol=0;
+global.Taimeris=0;

@@ -1,0 +1,1 @@
+if(global.Ist1Iedmainieki==0){room_goto(Vulkans)}

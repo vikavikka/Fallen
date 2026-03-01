@@ -1,0 +1,1 @@
+VelniniTaimeris=0;
